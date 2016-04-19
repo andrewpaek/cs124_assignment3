@@ -36,11 +36,5 @@ public class karp {
     }
 
 
-    public void print_list(int[] input_list){
-        for (int i:input_list){
-            System.out.println(i);
-        }
-    }
-
 
 }
