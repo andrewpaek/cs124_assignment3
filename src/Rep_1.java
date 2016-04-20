@@ -3,50 +3,66 @@ import java.util.Random;
 /**
  * Created by Andrew on 4/19/2016.
  */
-public class Rep_1 {
+public class Rep_1 extends representation{
     private int[] representation_array;
-    private int length;
+    private int array_length;
+    private int[] user_input;
 
     // may be a more efficient way to generate this
 
     public Rep_1(int[] input_array){
-        int length = input_array.length;
-        representation_array=new int[length];
+        array_length = input_array.length;
+        user_input=input_array;
+        representation_array=generate(array_length);
+    }
+
+
+    public int[] generate(int size){
+        int[] temp_array=new int[size];
         int random_number;
         Random generator = new Random();
-        for (int i=0; i<length; i++) {
+        for (int i=0; i<array_length; i++) {
             random_number = generator.nextInt(2);
             if (random_number==1){
-                representation_array[i]=1;
+                temp_array[i]=1;
             }
             else{
-                representation_array[i]=-1;
+                temp_array[i]=-1;
             }
         }
+        return temp_array;
     }
 
-    public void print_solution(){
-        for (int i:representation_array){
-            System.out.println(i);
-        }
-    }
-
-    public void random_step(){
+    public int[] random_step(int[] input_array){
+        int[] temp = copy_array(input_array);
         Random generator = new Random();
-        int s1 = generator.nextInt(length);
-        int s2 = generator.nextInt(length);
+        int s1 = generator.nextInt(array_length);
+        int s2 = generator.nextInt(array_length);
         while (s1==s2){
-            s2 = generator.nextInt(length);
+            s2 = generator.nextInt(array_length);
         }
 
         int r = generator.nextInt(2);
         if (r==0){
-            representation_array[s1]*=-1;
-            representation_array[s2]*=-1;
+            temp[s1]*=-1;
+            temp[s2]*=-1;
         }
         else {
-            representation_array[s1] *= -1;
+            temp[s1] *= -1;
         }
+        return temp;
+    }
+
+    public int residue(int[] ones){
+        int res=0;
+        for (int i=0; i<array_length; i++){
+            res+=user_input[i]*ones[i];
+
+        }
+        return res;
+    }
+    public int[] return_array(){
+        return representation_array;
     }
 
 }

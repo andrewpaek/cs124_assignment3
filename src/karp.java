@@ -10,18 +10,13 @@ public class karp {
 //    3. subtract values
 //    4. insert difference of subtraction
 
-    public int test1(int[] input_list){
+    public int residue(int[] input_list){
 
         // initializing the max heap with our input list - one time nlogn time
-
-        int marker = (input_list.length+1)%2;
-
         MaxHeap m_heap = new MaxHeap(input_list.length+1);
         for (int i:input_list){
             m_heap.insert(i);
         }
-
-
         int m1;
         int m2;
         int difference;

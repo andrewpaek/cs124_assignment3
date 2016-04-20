@@ -6,7 +6,7 @@ public class karp_main{
         // This test case breaks when the if I take out the if caluse that I added to maxheap. Think about that...
         int[] testing = {17, 13, 10, 4, 2, 1};
         karp k = new karp();
-        int m = k.test1(testing);
+        int m = k.residue(testing);
         System.out.println("Residue: "+m);
     }
 }
