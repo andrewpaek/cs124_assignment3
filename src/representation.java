@@ -25,7 +25,7 @@ public class representation {
         }
         s+=input_array[input_array.length-1];
         s+="]";
-        System.out.println(s);
+        System.out.print(s);
     }
 
     public int[] copy_array(int[] input_array){

@@ -15,16 +15,16 @@ public class Hill_Climbing {
 
 
         int[] best_array=r.return_array();
-        int[] temp2;
+        int[] new_array;
         int val_best = Math.abs(r.residue(best_array));
         int val_new;
         for (int i=0; i<max_iter; i++){
-            temp2=r.random_step(best_array);
+            new_array=r.random_step(best_array);
             r.print(best_array);
-            r.print(temp2);
-            val_new = Math.abs(r.residue(temp2));
+            r.print(new_array);
+            val_new = Math.abs(r.residue(new_array));
             if (val_new<val_best){
-                best_array=temp2;
+                best_array=new_array;
                 val_best = val_new;
             }
             System.out.println("BREAK");
