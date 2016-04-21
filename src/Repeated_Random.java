@@ -16,14 +16,19 @@ public class Repeated_Random {
         int array_length = input_array.length;
         int val_best = r.residue(rep);
         int val_new;
+
         for (int i = 0; i < max_Iter; i++) {
             temp = r.generate(array_length);
+            r.print(rep);
+            r.print(temp);
             val_new = r.residue(temp);
-            if (val_new < val_best) {
+            if (Math.abs(val_new) < Math.abs(val_best)) {
                 rep = temp;
                 val_best = val_new;
             }
+            System.out.println("BREAK");
         }
+        System.out.println(val_best);
         return r.residue(rep);
     }
 }

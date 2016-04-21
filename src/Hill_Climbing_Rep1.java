@@ -19,15 +19,15 @@ public class Hill_Climbing_Rep1 {
         for (int i=0; i<max_iter; i++){
             temp2=r.random_step(temp1);
             r.print(temp1);
-            System.out.println(r.residue(temp1.length));
+            System.out.println(r.residue(temp1));
             r.print(temp2);
-            System.out.println(r.residue(temp2.length));
-            if (Math.abs(r.residue(temp2.length))<Math.abs(r.residue(temp1.length))){
+            System.out.println(r.residue(temp2));
+            if (Math.abs(r.residue(temp2))<Math.abs(r.residue(temp1))){
                 temp1=temp2;
             }
             System.out.println("BREAK");
         }
-        return r.residue(temp1.length);
+        return r.residue(temp1);
     }
 
 }

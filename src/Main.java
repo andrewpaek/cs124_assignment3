@@ -3,15 +3,16 @@
  */
 public class Main {
     public static void main(String[] args){
-        // Testing Rep_1 with steps
-//        int[] test_array = {25, 17, 13, 8, 7, 4};
-//        Hill_Climbing_Rep1 rep1 = new Repeated_Random_Rep1();
-//        System.out.println(rep1.trial(test_array, 3));
 
-        int[] test_array={25, 17, 13, 8, 7, 4};
-        Rep_2 r = new Rep_2(test_array);
-        int[] temp = r.return_array();
-        r.residue(temp);
+//        int[] temp2 = {10, 8, 7, 6, 5};
+//        int[] temp = {0, 1, 1, 3, 4};
+//        Rep_2 r = new Rep_2(temp2);
+//        System.out.println(r.residue(temp));
+
+        // testing repeated_random
+        Repeated_Random r = new Repeated_Random();
+        int[] temp = {20, 17, 13, 10, 5, 2};
+        r.trial(temp, 3, "one");
 
 
     }
