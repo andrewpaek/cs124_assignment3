@@ -25,6 +25,10 @@ public class annealing {
         for (int i=0; i<max_Iter; i++){
             S_temp = r.random_step(S);
             S_temp_res = r.residue(S_temp);
+            r.print(S);
+            r.print(S_best);
+            r.print(S_temp);
+            System.out.println("BREAK");
             if (S_temp_res < S_res){
                 S=S_temp;
                 S_res = S_temp_res;
@@ -32,10 +36,7 @@ public class annealing {
             else{
                 probability = Math.exp(-(S_temp_res-S_res)/T(i));
                 random_number=Math.random();
-                System.out.println(probability);
-                System.out.println(random_number);
                 if (random_number<probability){
-                    System.out.println("hello world");
                     S=S_temp;
                     S_res = S_temp_res;
                 }

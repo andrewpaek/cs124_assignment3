@@ -15,6 +15,6 @@ public class Main {
 //        r.trial(temp, 4, "one");
         annealing a = new annealing();
         int[] temp = {20, 17, 13, 10, 5, 2};
-        a.trial(temp, 1000, "one");
+        a.trial(temp, 5, "one");
     }
 }
