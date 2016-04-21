@@ -10,9 +10,9 @@ public class Main {
 //        System.out.println(r.residue(temp));
 
         // testing repeated_random
-        Repeated_Random r = new Repeated_Random();
+        Hill_Climbing r = new Hill_Climbing();
         int[] temp = {20, 17, 13, 10, 5, 2};
-        r.trial(temp, 3, "one");
+        r.trial(temp, 4, "one");
 
 
     }

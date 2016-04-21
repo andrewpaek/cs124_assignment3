@@ -16,7 +16,6 @@ public class Rep_2 extends representation {
         array_length=input_array.length;
         representation_array=generate(array_length);
         user_input=copy_array(input_array);
-        print(representation_array);
     }
 
     // GENERATING TOTALLY NEW RANDOM SOLUTIONS
@@ -64,7 +63,6 @@ public class Rep_2 extends representation {
             if (dict[ot] == null) {
                 dict[ot] = new LinkedList<Integer>();
             }
-            System.out.println(ot);
             dict[ot].add(i);
         }
         for (int j=0; j<array_length; j++){
