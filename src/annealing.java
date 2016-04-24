@@ -2,7 +2,7 @@
  * Created by Andrew on 4/20/2016.
  */
 public class annealing {
-    public int trial(int[] input_array, int max_Iter, String key) {
+    public long trial(long[] input_array, int max_Iter, String key) {
         representation r;
         if (key.equals("one")) {
             r = new Rep_1(input_array);
@@ -14,9 +14,9 @@ public class annealing {
         int[] S_best=r.copy_array(S);
         int[] S_temp;
 
-        int S_res = r.residue(S);
-        int S_best_res = r.residue(S_best);
-        int S_temp_res;
+        long S_res = r.residue(S);
+        long S_best_res = r.residue(S_best);
+        long S_temp_res;
 
         double probability;
         double random_number;

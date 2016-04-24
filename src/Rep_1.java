@@ -5,11 +5,11 @@ import java.util.Random;
 public class Rep_1 extends representation{
     private int[] representation_array;
     private int array_length;
-    private int[] user_input;
+    private long[] user_input;
 
     // may be a more efficient way to generate this
 
-    public Rep_1(int[] input_array){
+    public Rep_1(long[] input_array){
         array_length = input_array.length;
         user_input=input_array;
         representation_array=generate(array_length);
@@ -52,8 +52,8 @@ public class Rep_1 extends representation{
         return temp;
     }
 
-    public int residue(int[] ones){
-        int res=0;
+    public long residue(int[] ones){
+        long res=0;
         for (int i=0; i<array_length; i++){
             res+=user_input[i]*ones[i];
 

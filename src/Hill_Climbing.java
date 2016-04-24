@@ -3,7 +3,7 @@
  */
 public class Hill_Climbing {
 
-    public int trial (int[] input_array, int max_iter, String key){
+    public long trial (long[] input_array, int max_iter, String key){
 
         representation r;
         if (key.equals("one")){
@@ -16,8 +16,8 @@ public class Hill_Climbing {
 
         int[] best_array=r.return_array();
         int[] new_array;
-        int val_best = r.residue(best_array);
-        int val_new;
+        long val_best = r.residue(best_array);
+        long val_new;
         System.out.println("Testing Hill Cliimbing...");
         for (int i=0; i<max_iter; i++){
             System.out.println("Iteration: " + i);

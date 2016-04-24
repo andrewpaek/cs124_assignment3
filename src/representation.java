@@ -12,7 +12,7 @@ public class representation {
         return temp;
     }
 
-    public int residue(int[] nothing){
+    public long residue(int[] nothing){
         return 0;
     }
 

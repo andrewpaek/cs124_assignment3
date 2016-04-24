@@ -7,7 +7,7 @@ public class Main {
         // testing repeated_random
 
         Repeated_Random r = new Repeated_Random();
-        int[] temp = {20, 17, 13, 10, 5, 2};
+        long[] temp = {20, 17, 13, 10, 5, 2};
         r.trial(temp, 10, "two");
 
 //        annealing a = new annealing();
