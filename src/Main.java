@@ -14,7 +14,7 @@ public class Main {
 //        h.trial(temp, 5, "one");
 
         annealing a = new annealing();
-        a.trial(temp, 25000, "one");
+        a.trial(temp, 5, "one");
 
     }
 }
