@@ -10,12 +10,12 @@ public class Rep_2 extends representation {
 ////    3. Getting residue of P
     private int[] representation_array;
     private int array_length;
-    private int[] user_input;
+    private long[] user_input;
 
-    public Rep_2(int[] input_array){
+    public Rep_2(long[] input_array){
         array_length=input_array.length;
         representation_array=generate(array_length);
-        user_input=copy_array(input_array);
+        user_input=input_array;
     }
 
     // GENERATING TOTALLY NEW RANDOM SOLUTIONS
@@ -46,16 +46,16 @@ public class Rep_2 extends representation {
     }
 
     // input is P, output is A', uses representation_array aka A
-    public int residue(int[] input_array){
+    public long residue(int[]input_array){
         karp k = new karp();
         return Math.abs(k.residue(get_Aprime(input_array)));
     }
 
-    private int[] get_Aprime(int[] input_array){
+    private long[] get_Aprime(int[] input_array){
         LinkedList<Integer>[] dict = new LinkedList[array_length];
-        int[] A_prime = new int[array_length];
-        int temp_val;
-        int temp_sum=0;
+        long[] A_prime = new long[array_length];
+        long temp_val;
+        long temp_sum=0;
         int ot;
         for (int i=0; i<array_length; i++){
             ot=input_array[i];
@@ -83,4 +83,17 @@ public class Rep_2 extends representation {
 
         return representation_array;
     }
+
+    public void print(long[] input_array){
+        String s="";
+        s+="[";
+        for (int i=0;i < input_array.length-1; i++){
+            s+=input_array[i];
+            s+=", ";
+        }
+        s+=input_array[input_array.length-1];
+        s+="]";
+        System.out.println(s);
+    }
+
 }

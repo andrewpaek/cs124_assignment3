@@ -2,11 +2,11 @@
  * Created by Andrew on 4/18/2016.
  */
 
-// http://www.sanfoundry.com/java-program-implement-max-heap/
+// Source: http://www.sanfoundry.com/java-program-implement-max-heap/
 
 public class MaxHeap
 {
-    private int[] Heap;
+    private long[] Heap;
     public int size;
     private int maxsize;
 
@@ -16,7 +16,7 @@ public class MaxHeap
     {
         this.maxsize = maxsize;
         this.size = 0;
-        Heap = new int[this.maxsize + 1];
+        Heap = new long[this.maxsize + 1];
         Heap[0] = Integer.MAX_VALUE;
     }
 
@@ -49,7 +49,7 @@ public class MaxHeap
 
     private void swap(int fpos,int spos)
     {
-        int tmp;
+        long tmp;
         tmp = Heap[fpos];
         Heap[fpos] = Heap[spos];
         Heap[spos] = tmp;
@@ -80,7 +80,7 @@ public class MaxHeap
         }
     }
 
-    public void insert(int element)
+    public void insert(long element)
     {
         Heap[++size] = element;
         int current = size;
@@ -110,9 +110,9 @@ public class MaxHeap
         }
     }
 
-    public int remove()
+    public long remove()
     {
-        int popped = Heap[FRONT];
+        long popped = Heap[FRONT];
         Heap[FRONT] = Heap[size--];
         if (size!=0) {
             maxHeapify(FRONT);

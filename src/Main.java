@@ -6,15 +6,17 @@ public class Main {
 
         // testing repeated_random
 
-        int[] temp = {20, 17, 13, 10, 5, 2};
-//        Repeated_Random r = new Repeated_Random();
-//        r.trial(temp, 3, "two");
-//
-//        Hill_Climbing h = new Hill_Climbing();
-//        h.trial(temp, 5, "one");
+        Repeated_Random r = new Repeated_Random();
+        long[] temp = {20, 17, 13, 10, 5, 2};
+        r.trial(temp, 10, "two");
 
-        annealing a = new annealing();
-        a.trial(temp, 5, "one");
+//        annealing a = new annealing();
+//        int[] temp = {13, 20, 35, 5, 2, 10};
+//        a.trial(temp, 5, "two");
+
+//        Hill_Climbing h = new Hill_Climbing();
+//        int[] temp = {13, 20, 17, 5, 2, 10};
+//        h.trial(temp, 5, "one");
 
     }
 }
