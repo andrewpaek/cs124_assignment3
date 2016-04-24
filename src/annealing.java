@@ -12,7 +12,6 @@ public class annealing {
 
         int[] S = r.return_array();
         int[] S_best=r.copy_array(S);
-
         int[] S_temp;
 
         int S_res = r.residue(S);
@@ -26,8 +25,11 @@ public class annealing {
             S_temp = r.random_step(S);
             S_temp_res = r.residue(S_temp);
             r.print(S);
+            System.out.println(S_res);
             r.print(S_best);
+            System.out.println(S_best_res);
             r.print(S_temp);
+            System.out.println(S_temp_res);
             System.out.println("BREAK");
             if (S_temp_res < S_res){
                 S=S_temp;
@@ -46,7 +48,8 @@ public class annealing {
                 S_best_res = S_res;
             }
         }
-        return r.residue(S_best);
+        System.out.println(S_best_res);
+        return S_best_res;
 
     }
 

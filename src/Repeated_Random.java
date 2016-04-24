@@ -16,7 +16,6 @@ public class Repeated_Random {
         int array_length = input_array.length;
         int val_best = Math.abs(r.residue(best_array));
         int val_new;
-        System.out.println("hello world");
         for (int i = 0; i < max_Iter; i++) {
             new_array = r.generate(array_length);
             r.print(best_array);
@@ -28,8 +27,7 @@ public class Repeated_Random {
             }
             System.out.println("BREAK");
         }
-
         System.out.println(val_best);
-        return r.residue(best_array);
+        return val_best;
     }
 }

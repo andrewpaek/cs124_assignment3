@@ -59,7 +59,7 @@ public class Rep_1 extends representation{
             res+=user_input[i]*ones[i];
 
         }
-        return res;
+        return Math.abs(res);
     }
     public int[] return_array(){
         return representation_array;

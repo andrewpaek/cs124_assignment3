@@ -20,16 +20,19 @@ public class Hill_Climbing {
         int val_new;
         for (int i=0; i<max_iter; i++){
             new_array=r.random_step(best_array);
-            r.print(best_array);
-            r.print(new_array);
             val_new = Math.abs(r.residue(new_array));
+            r.print(best_array);
+            System.out.println(val_best);
+            r.print(new_array);
+            System.out.println(val_new);
             if (val_new<val_best){
                 best_array=new_array;
                 val_best = val_new;
             }
             System.out.println("BREAK");
         }
-        return r.residue(best_array);
+        System.out.println(val_best);
+        return val_best;
     }
 
 }
