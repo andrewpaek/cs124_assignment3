@@ -10,9 +10,9 @@ public class main {
 //        long[] temp = {20, 17, 13, 10, 5, 2};
 //        r.trial(temp, 10, "two");
 
-        annealing a = new annealing();
-        long[] temp = {13, 20, 35, 5, 2, 10};
-        a.trial(temp, 5, "two");
+//        annealing a = new annealing();
+//        long[] temp = {13, 20, 35, 5, 2, 10};
+//        a.trial(temp, 5, "two");
 
 //        Hill_Climbing h = new Hill_Climbing();
 //        int[] temp = {13, 20, 17, 5, 2, 10};
@@ -28,11 +28,11 @@ public class main {
 // 6. write up for intro questions
 
 
-//        input_generator g = new input_generator();
-//        long[] temp = {13, 20, 35, 5, 2, 10};
-//        Rep_2 r = new Rep_2(temp);
-//        long[] testing = g.generate(10);
-//        r.print(testing);
+        input_generator g = new input_generator();
+        long[] temp = {13, 20, 35, 5, 2, 10};
+        rep_2 r = new rep_2(temp);
+        long[] testing = g.generate(10);
+        r.print(testing);
 
 
     }

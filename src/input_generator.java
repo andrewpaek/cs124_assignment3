@@ -14,8 +14,8 @@ public class input_generator {
     }
 
     public long random_long() {
-        long leftLimit = 1L;
-        long rightLimit = 10L;
+        long leftLimit = 0L;
+        long rightLimit = 10^12L;
         long generatedLong = leftLimit + (long) (Math.random() * (rightLimit - leftLimit));
 
         return generatedLong;
