@@ -20,13 +20,16 @@ public class Hill_Climbing {
         int val_new;
         System.out.println("Testing Hill Cliimbing...");
         for (int i=0; i<max_iter; i++){
-            System.out.println("Trial: " + i);
+            System.out.println("Iteration: " + i);
             new_array=r.random_step(best_array);
             System.out.print("Current Best: ");
             r.print(best_array);
+            System.out.println("Residue: " + val_best);
             System.out.print("New step: ");
             r.print(new_array);
             val_new = r.residue(new_array);
+            System.out.println("Residue: " + val_new);
+
 
             if (val_new<val_best){
                 best_array=new_array;
