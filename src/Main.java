@@ -10,10 +10,13 @@ public class Main {
 //        System.out.println(r.residue(temp));
 
         // testing repeated_random
-        Hill_Climbing r = new Hill_Climbing();
-        int[] temp = {20, 17, 13, 10, 5, 2};
-        r.trial(temp, 4, "one");
+        int[] temparray = {10, 8, 7, 6, 5};
 
+       // Repeated_Random r = new Repeated_Random();
+       //r.trial(temparray, 4, "two");
 
+        // testing Hill_Climbing
+        Hill_Climbing h = new Hill_Climbing();
+        h.trial(temparray, 4, "two");
     }
 }
