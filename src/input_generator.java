@@ -14,10 +14,10 @@ public class input_generator {
     }
 
     public long random_long() {
-        long leftLimit = 0L;
-        long rightLimit = 10^12L;
+        long leftLimit = 0;
+        double tempright = Math.pow(10, 12);
+        long rightLimit = (long) tempright;
         long generatedLong = leftLimit + (long) (Math.random() * (rightLimit - leftLimit));
-
         return generatedLong;
     }
 }

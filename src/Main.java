@@ -6,9 +6,9 @@ public class main {
 
         // testing repeated_random
 
-//        Repeated_Random r = new Repeated_Random();
-//        long[] temp = {20, 17, 13, 10, 5, 2};
-//        r.trial(temp, 10, "two");
+        repeated_random r = new repeated_random();
+        long[] temp = {20, 17, 13, 10, 5, 2};
+        r.trial(temp, 10, "two");
 
 //        annealing a = new annealing();
 //        long[] temp = {13, 20, 35, 5, 2, 10};
@@ -27,13 +27,33 @@ public class main {
 // 5. check results
 // 6. write up for intro questions
 
-
-        input_generator g = new input_generator();
-        long[] temp = {13, 20, 35, 5, 2, 10};
-        rep_2 r = new rep_2(temp);
-        long[] testing = g.generate(10);
-        r.print(testing);
-
+//        input_generator g = new input_generator();
+//        long[] temp = {13, 20, 35, 5, 2, 10};
+//        rep_2 r = new rep_2(temp);
+//
+//        annealing a = new annealing();
+//        hill_climbing h = new hill_climbing();
+//        repeated_random rr = new repeated_random();
+//        karp k = new karp();
+//
+//        int maxIter = 25000;
+//
+//        for (int i=0; i<50; i++){
+//            long[] testing = g.generate(20);
+//            System.out.println("Random Input: ");
+//            r.print(testing);
+//
+//            k.residue(testing);
+//
+//            a.trial(testing, maxIter, "one");
+//            a.trial(testing, maxIter, "two");
+//
+//            h.trial(testing, maxIter, "one");
+//            h.trial(testing, maxIter, "two");
+//
+//            rr.trial(testing, maxIter, "one");
+//            rr.trial(testing, maxIter, "two");
+//        }
 
     }
 }
