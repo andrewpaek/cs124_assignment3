@@ -18,20 +18,25 @@ public class Hill_Climbing {
         int[] new_array;
         int val_best = Math.abs(r.residue(best_array));
         int val_new;
+        System.out.println("Testing Hill Cliimbing...");
         for (int i=0; i<max_iter; i++){
+            System.out.println("Trial: " + i);
             new_array=r.random_step(best_array);
-            val_new = Math.abs(r.residue(new_array));
+            System.out.print("Current Best: ");
             r.print(best_array);
-            System.out.println(val_best);
+            System.out.print("New step: ");
             r.print(new_array);
-            System.out.println(val_new);
+            val_new = Math.abs(r.residue(new_array));
+
             if (val_new<val_best){
                 best_array=new_array;
                 val_best = val_new;
             }
-            System.out.println("BREAK");
+            System.out.println("");
         }
-        System.out.println(val_best);
+
+        System.out.println("Best Residue: " + val_best);
+        System.out.print("Best A': ");
         return val_best;
     }
 
