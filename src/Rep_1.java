@@ -2,14 +2,14 @@ import java.util.Random;
 /**
  * Created by Andrew on 4/19/2016.
  */
-public class Rep_1 extends representation{
+public class rep_1 extends representation{
     private int[] representation_array;
     private int array_length;
     private long[] user_input;
 
     // may be a more efficient way to generate this
 
-    public Rep_1(long[] input_array){
+    public rep_1(long[] input_array){
         array_length = input_array.length;
         user_input=input_array;
         representation_array=generate(array_length);

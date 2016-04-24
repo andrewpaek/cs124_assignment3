@@ -13,7 +13,7 @@ public class karp {
     public long residue(long[] input_list){
 
         // initializing the max heap with our input list - one time nlogn time
-        MaxHeap m_heap = new MaxHeap(input_list.length+1);
+        maxheap m_heap = new maxheap(input_list.length+1);
         for (long i:input_list){
             m_heap.insert(i);
         }

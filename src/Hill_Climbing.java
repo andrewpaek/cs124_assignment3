@@ -1,16 +1,16 @@
 /**
  * Created by Andrew on 4/19/2016.
  */
-public class Hill_Climbing {
+public class hill_climbing {
 
     public long trial (long[] input_array, int max_iter, String key){
 
         representation r;
         if (key.equals("one")){
-            r = new Rep_1(input_array);
+            r = new rep_1(input_array);
         }
         else {
-            r = new Rep_2(input_array);
+            r = new rep_2(input_array);
         }
 
 

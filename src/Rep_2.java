@@ -4,7 +4,7 @@ import java.util.Random;
 /**
  * Created by Andrew on 4/20/2016.
  */
-public class Rep_2 extends representation {
+public class rep_2 extends representation {
 ////    1. generating P randomly
 ////    2. stepping through P
 ////    3. Getting residue of P
@@ -12,7 +12,7 @@ public class Rep_2 extends representation {
     private int array_length;
     private long[] user_input;
 
-    public Rep_2(long[] input_array){
+    public rep_2(long[] input_array){
         array_length=input_array.length;
         representation_array=generate(array_length);
         user_input=input_array;

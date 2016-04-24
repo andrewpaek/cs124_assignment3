@@ -5,9 +5,9 @@ public class annealing {
     public long trial(long[] input_array, int max_Iter, String key) {
         representation r;
         if (key.equals("one")) {
-            r = new Rep_1(input_array);
+            r = new rep_1(input_array);
         } else {
-            r = new Rep_2(input_array);
+            r = new rep_2(input_array);
         }
 
         int[] S = r.return_array();

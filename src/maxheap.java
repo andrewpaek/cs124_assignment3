@@ -4,7 +4,7 @@
 
 // Source: http://www.sanfoundry.com/java-program-implement-max-heap/
 
-public class MaxHeap
+public class maxheap
 {
     private long[] Heap;
     public int size;
@@ -12,7 +12,7 @@ public class MaxHeap
 
     private static final int FRONT = 1;
 
-    public MaxHeap(int maxsize)
+    public maxheap(int maxsize)
     {
         this.maxsize = maxsize;
         this.size = 0;
@@ -120,22 +120,22 @@ public class MaxHeap
         return popped;
     }
 
-    public static void main(String...arg)
-    {
-        System.out.println("The Max Heap is ");
-        MaxHeap maxHeap = new MaxHeap(15);
-        maxHeap.insert(5);
-        maxHeap.insert(3);
-        maxHeap.insert(17);
-        maxHeap.insert(10);
-        maxHeap.insert(84);
-        maxHeap.insert(19);
-        maxHeap.insert(6);
-        maxHeap.insert(22);
-        maxHeap.insert(9);
-        maxHeap.maxHeap();
-
-        maxHeap.print();
-        System.out.println("The max val is " + maxHeap.remove());
-    }
+//    public static void main(String...arg)
+//    {
+//        System.out.println("The Max Heap is ");
+//        MaxHeap maxHeap = new MaxHeap(15);
+//        maxHeap.insert(5);
+//        maxHeap.insert(3);
+//        maxHeap.insert(17);
+//        maxHeap.insert(10);
+//        maxHeap.insert(84);
+//        maxHeap.insert(19);
+//        maxHeap.insert(6);
+//        maxHeap.insert(22);
+//        maxHeap.insert(9);
+//        maxHeap.maxHeap();
+//
+//        maxHeap.print();
+//        System.out.println("The max val is " + maxHeap.remove());
+//    }
 }
