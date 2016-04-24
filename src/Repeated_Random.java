@@ -14,7 +14,7 @@ public class Repeated_Random {
         int[] best_array = r.return_array();
         int[] new_array;
         int array_length = input_array.length;
-        int val_best = Math.abs(r.residue(best_array));
+        int val_best = r.residue(best_array);
         int val_new;
         System.out.println("Testing Repeated Random...");
         for (int i = 0; i < max_Iter; i++) {
@@ -23,7 +23,7 @@ public class Repeated_Random {
             r.print(best_array);
             r.print(new_array);
             val_new = r.residue(new_array);
-            if (Math.abs(val_new) < Math.abs(val_best)) {
+            if (val_new < val_best) {
                 best_array = new_array;
                 val_best = val_new;
             }

@@ -16,7 +16,7 @@ public class Hill_Climbing {
 
         int[] best_array=r.return_array();
         int[] new_array;
-        int val_best = Math.abs(r.residue(best_array));
+        int val_best = r.residue(best_array);
         int val_new;
         System.out.println("Testing Hill Cliimbing...");
         for (int i=0; i<max_iter; i++){
@@ -26,7 +26,7 @@ public class Hill_Climbing {
             r.print(best_array);
             System.out.print("New step: ");
             r.print(new_array);
-            val_new = Math.abs(r.residue(new_array));
+            val_new = r.residue(new_array);
 
             if (val_new<val_best){
                 best_array=new_array;

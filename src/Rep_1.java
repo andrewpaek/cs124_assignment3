@@ -1,5 +1,4 @@
 import java.util.Random;
-
 /**
  * Created by Andrew on 4/19/2016.
  */
