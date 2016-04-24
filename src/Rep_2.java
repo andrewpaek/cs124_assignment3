@@ -48,8 +48,7 @@ public class Rep_2 extends representation {
     // input is P, output is A', uses representation_array aka A
     public int residue(int[] input_array){
         karp k = new karp();
-        int val = k.residue(get_Aprime(input_array));
-        return val;
+        return k.residue(get_Aprime(input_array));
     }
 
     private int[] get_Aprime(int[] input_array){
@@ -81,6 +80,7 @@ public class Rep_2 extends representation {
     }
 
     public int[] return_array(){
+
         return representation_array;
     }
 }

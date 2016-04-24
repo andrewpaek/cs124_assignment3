@@ -10,6 +10,7 @@ public class Main {
 //        System.out.println(r.residue(temp));
 
         // testing repeated_random
+<<<<<<< HEAD
         int[] temparray = {10, 8, 7, 6, 5};
 
        // Repeated_Random r = new Repeated_Random();
@@ -18,5 +19,13 @@ public class Main {
         // testing Hill_Climbing
         Hill_Climbing h = new Hill_Climbing();
         h.trial(temparray, 4, "two");
+=======
+//        Repeated_Random r = new Repeated_Random();
+//        int[] temp = {20, 17, 13, 10, 5, 2};
+//        r.trial(temp, 4, "one");
+        annealing a = new annealing();
+        int[] temp = {20, 17, 13, 10, 5, 2};
+        a.trial(temp, 5, "one");
+>>>>>>> 8bde0015fac85cf3b49964260a734d2fdb15da12
     }
 }

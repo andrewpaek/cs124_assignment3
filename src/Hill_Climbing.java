@@ -15,11 +15,12 @@ public class Hill_Climbing {
 
 
         int[] best_array=r.return_array();
-        int[] temp2;
+        int[] new_array;
         int val_best = Math.abs(r.residue(best_array));
         int val_new;
         System.out.println("Testing Hill Cliimbing...");
         for (int i=0; i<max_iter; i++){
+<<<<<<< HEAD
             System.out.println("Trial: " + i);
             temp2=r.random_step(best_array);
             System.out.print("Current Best: ");
@@ -27,8 +28,14 @@ public class Hill_Climbing {
             System.out.print("New step: ");
             r.print(temp2);
             val_new = Math.abs(r.residue(temp2));
+=======
+            new_array=r.random_step(best_array);
+            r.print(best_array);
+            r.print(new_array);
+            val_new = Math.abs(r.residue(new_array));
+>>>>>>> 8bde0015fac85cf3b49964260a734d2fdb15da12
             if (val_new<val_best){
-                best_array=temp2;
+                best_array=new_array;
                 val_best = val_new;
             }
             System.out.println("");
