@@ -20,9 +20,11 @@ public class Repeated_Random {
         for (int i = 0; i < max_Iter; i++) {
             System.out.println("Iteration: " + i);
             new_array = r.generate(array_length);
-            r.print(best_array);
-            r.print(new_array);
             val_new = r.residue(new_array);
+            r.print(best_array);
+            System.out.println(val_best);
+            r.print(new_array);
+            System.out.println(val_new);
             if (val_new < val_best) {
                 best_array = new_array;
                 val_best = val_new;
@@ -31,7 +33,6 @@ public class Repeated_Random {
         }
 
         System.out.println("Best Residue: " + val_best);
-        System.out.print("Best A': ");
         return val_best;
 
     }
