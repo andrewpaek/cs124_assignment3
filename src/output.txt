@@ -1,2 +1,250 @@
-start
-end
+Instance: 0
+Random Repeated #0
+Residual: 5254170782
+
+
+Instance: 1
+Random Repeated #1
+Residual: 2402637371
+
+
+Instance: 2
+Random Repeated #2
+Residual: 3005858049
+
+
+Instance: 3
+Random Repeated #3
+Residual: 1354782156
+
+
+Instance: 4
+Random Repeated #4
+Residual: 16767626546
+
+
+Instance: 5
+Random Repeated #5
+Residual: 10773864649
+
+
+Instance: 6
+Random Repeated #6
+Residual: 37831287823
+
+
+Instance: 7
+Random Repeated #7
+Residual: 13929150006
+
+
+Instance: 8
+Random Repeated #8
+Residual: 2352060668
+
+
+Instance: 9
+Random Repeated #9
+Residual: 2997055365
+
+
+Instance: 10
+Random Repeated #10
+Residual: 47430261
+
+
+Instance: 11
+Random Repeated #11
+Residual: 6252051169
+
+
+Instance: 12
+Random Repeated #12
+Residual: 3753507103
+
+
+Instance: 13
+Random Repeated #13
+Residual: 5363902168
+
+
+Instance: 14
+Random Repeated #14
+Residual: 5339542827
+
+
+Instance: 15
+Random Repeated #15
+Residual: 10334548124
+
+
+Instance: 16
+Random Repeated #16
+Residual: 34537106695
+
+
+Instance: 17
+Random Repeated #17
+Residual: 3732875753
+
+
+Instance: 18
+Random Repeated #18
+Residual: 6810809512
+
+
+Instance: 19
+Random Repeated #19
+Residual: 2175447932
+
+
+Instance: 20
+Random Repeated #20
+Residual: 6480327310
+
+
+Instance: 21
+Random Repeated #21
+Residual: 5650083940
+
+
+Instance: 22
+Random Repeated #22
+Residual: 228286461
+
+
+Instance: 23
+Random Repeated #23
+Residual: 2061714487
+
+
+Instance: 24
+Random Repeated #24
+Residual: 1486710923
+
+
+Instance: 25
+Random Repeated #25
+Residual: 2473762669
+
+
+Instance: 26
+Random Repeated #26
+Residual: 3025860336
+
+
+Instance: 27
+Random Repeated #27
+Residual: 149371345
+
+
+Instance: 28
+Random Repeated #28
+Residual: 30072061
+
+
+Instance: 29
+Random Repeated #29
+Residual: 12669848348
+
+
+Instance: 30
+Random Repeated #30
+Residual: 5670571240
+
+
+Instance: 31
+Random Repeated #31
+Residual: 4781748878
+
+
+Instance: 32
+Random Repeated #32
+Residual: 501478833
+
+
+Instance: 33
+Random Repeated #33
+Residual: 713337292
+
+
+Instance: 34
+Random Repeated #34
+Residual: 1358968874
+
+
+Instance: 35
+Random Repeated #35
+Residual: 751352747
+
+
+Instance: 36
+Random Repeated #36
+Residual: 4348041422
+
+
+Instance: 37
+Random Repeated #37
+Residual: 4173818699
+
+
+Instance: 38
+Random Repeated #38
+Residual: 9968914732
+
+
+Instance: 39
+Random Repeated #39
+Residual: 5469024411
+
+
+Instance: 40
+Random Repeated #40
+Residual: 7164716898
+
+
+Instance: 41
+Random Repeated #41
+Residual: 7448298157
+
+
+Instance: 42
+Random Repeated #42
+Residual: 3240331450
+
+
+Instance: 43
+Random Repeated #43
+Residual: 5541459642
+
+
+Instance: 44
+Random Repeated #44
+Residual: 167910841
+
+
+Instance: 45
+Random Repeated #45
+Residual: 3617413981
+
+
+Instance: 46
+Random Repeated #46
+Residual: 5014289698
+
+
+Instance: 47
+Random Repeated #47
+Residual: 1257592617
+
+
+Instance: 48
+Random Repeated #48
+Residual: 4024856293
+
+
+Instance: 49
+Random Repeated #49
+Residual: 4723710548
+
+

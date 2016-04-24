@@ -44,20 +44,26 @@ public class main {
         int maxIter = 25000;
 
         for (int i=0; i<50; i++){
-            long[] testing = g.generate(100);
+            writer.println("Instance: "+ i);
+            long[] testing = g.generate(10);
             System.out.println("Random Input: ");
             r.print(testing);
 
             k.residue(testing);
 
-            //a.trial(testing, maxIter, "one");
-            //a.trial(testing, maxIter, "two");
+
+            writer.println("Random Repeated #" + i);
+            long rr1_residual = rr.trial(testing, maxIter, "one");
+            writer.println("Residual: " + rr1_residual);
+            writer.println("\n");
+            //rr.trial(testing, maxIter, "two");
 
             //h.trial(testing, maxIter, "one");
             //h.trial(testing, maxIter, "two");
 
-            //rr.trial(testing, maxIter, "one");
-            //rr.trial(testing, maxIter, "two");
+            //a.trial(testing, maxIter, "one");
+            //a.trial(testing, maxIter, "two");
+
         }
 //
         writer.close();

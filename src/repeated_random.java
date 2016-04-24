@@ -1,8 +1,13 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+
 /**
  * Created by Andrew on 4/20/2016.
  */
 public class repeated_random {
     public long trial(long[] input_array, int max_Iter, String key) {
+
         representation r;
         if (key.equals("one")){
             r = new rep_1(input_array);
