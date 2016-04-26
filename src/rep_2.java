@@ -75,7 +75,7 @@ public class rep_2 extends representation {
             A_prime[j]=temp_sum;
             temp_sum=0;
         }
-        print(A_prime);
+        //print(A_prime);
         return A_prime;
     }
 

@@ -1,250 +1,2050 @@
 Instance: 0
-Random Repeated #0
-Residual: 5254170782
+********************
+Standard Random Repeated #0
+Residual: 382702188
+Runtime: 48
+
+
+Pre-partitioned Random Repeated #0
+Residual: 102
+Runtime: 398
+
+
+Standard Hill-Climbing #0
+Residual: 14320352
+Runtime: 14
+
+
+Pre-partitioned Hill-Climbing #0
+Residual: 120
+Runtime: 259
+
+
+Standard Annealing #0
+Residual: 215306430
+Runtime: 21
+
+
+Pre-Partitioned Annealing #0
+Residual: 127
+Runtime: 242
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 1
-Random Repeated #1
-Residual: 2402637371
+********************
+Standard Random Repeated #1
+Residual: 319070779
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #1
+Residual: 531
+Runtime: 311
+
+
+Standard Hill-Climbing #1
+Residual: 575748403
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #1
+Residual: 96
+Runtime: 213
+
+
+Standard Annealing #1
+Residual: 161229793
+Runtime: 17
+
+
+Pre-Partitioned Annealing #1
+Residual: 39
+Runtime: 228
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 2
-Random Repeated #2
-Residual: 3005858049
+********************
+Standard Random Repeated #2
+Residual: 157522364
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #2
+Residual: 41
+Runtime: 311
+
+
+Standard Hill-Climbing #2
+Residual: 75220184
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #2
+Residual: 646
+Runtime: 197
+
+
+Standard Annealing #2
+Residual: 150259054
+Runtime: 17
+
+
+Pre-Partitioned Annealing #2
+Residual: 525
+Runtime: 228
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 3
-Random Repeated #3
-Residual: 1354782156
+********************
+Standard Random Repeated #3
+Residual: 476240396
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #3
+Residual: 345
+Runtime: 311
+
+
+Standard Hill-Climbing #3
+Residual: 216211606
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #3
+Residual: 662
+Runtime: 211
+
+
+Standard Annealing #3
+Residual: 32855702
+Runtime: 13
+
+
+Pre-Partitioned Annealing #3
+Residual: 242
+Runtime: 228
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 4
-Random Repeated #4
-Residual: 16767626546
+********************
+Standard Random Repeated #4
+Residual: 104963899
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #4
+Residual: 45
+Runtime: 310
+
+
+Standard Hill-Climbing #4
+Residual: 79105071
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #4
+Residual: 538
+Runtime: 216
+
+
+Standard Annealing #4
+Residual: 51733291
+Runtime: 14
+
+
+Pre-Partitioned Annealing #4
+Residual: 129
+Runtime: 224
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 5
-Random Repeated #5
-Residual: 10773864649
+********************
+Standard Random Repeated #5
+Residual: 1342098407
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #5
+Residual: 336
+Runtime: 310
+
+
+Standard Hill-Climbing #5
+Residual: 238045923
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #5
+Residual: 910
+Runtime: 197
+
+
+Standard Annealing #5
+Residual: 76221603
+Runtime: 14
+
+
+Pre-Partitioned Annealing #5
+Residual: 123
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 6
-Random Repeated #6
-Residual: 37831287823
+********************
+Standard Random Repeated #6
+Residual: 115807471
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #6
+Residual: 124
+Runtime: 311
+
+
+Standard Hill-Climbing #6
+Residual: 151753949
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #6
+Residual: 107
+Runtime: 199
+
+
+Standard Annealing #6
+Residual: 489457605
+Runtime: 14
+
+
+Pre-Partitioned Annealing #6
+Residual: 300
+Runtime: 245
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 7
-Random Repeated #7
-Residual: 13929150006
+********************
+Standard Random Repeated #7
+Residual: 276341669
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #7
+Residual: 281
+Runtime: 310
+
+
+Standard Hill-Climbing #7
+Residual: 19642641
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #7
+Residual: 161
+Runtime: 211
+
+
+Standard Annealing #7
+Residual: 143969069
+Runtime: 13
+
+
+Pre-Partitioned Annealing #7
+Residual: 743
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 8
-Random Repeated #8
-Residual: 2352060668
+********************
+Standard Random Repeated #8
+Residual: 560120602
+Runtime: 37
+
+
+Pre-partitioned Random Repeated #8
+Residual: 19
+Runtime: 315
+
+
+Standard Hill-Climbing #8
+Residual: 816808686
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #8
+Residual: 179
+Runtime: 217
+
+
+Standard Annealing #8
+Residual: 389739112
+Runtime: 13
+
+
+Pre-Partitioned Annealing #8
+Residual: 356
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 9
-Random Repeated #9
-Residual: 2997055365
+********************
+Standard Random Repeated #9
+Residual: 14004159
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #9
+Residual: 53
+Runtime: 317
+
+
+Standard Hill-Climbing #9
+Residual: 18838689
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #9
+Residual: 102
+Runtime: 202
+
+
+Standard Annealing #9
+Residual: 2381915
+Runtime: 13
+
+
+Pre-Partitioned Annealing #9
+Residual: 111
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 10
-Random Repeated #10
-Residual: 47430261
+********************
+Standard Random Repeated #10
+Residual: 660379961
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #10
+Residual: 99
+Runtime: 314
+
+
+Standard Hill-Climbing #10
+Residual: 261046365
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #10
+Residual: 115
+Runtime: 233
+
+
+Standard Annealing #10
+Residual: 68810677
+Runtime: 13
+
+
+Pre-Partitioned Annealing #10
+Residual: 28
+Runtime: 232
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 11
-Random Repeated #11
-Residual: 6252051169
+********************
+Standard Random Repeated #11
+Residual: 260913912
+Runtime: 37
+
+
+Pre-partitioned Random Repeated #11
+Residual: 16
+Runtime: 314
+
+
+Standard Hill-Climbing #11
+Residual: 536085626
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #11
+Residual: 216
+Runtime: 215
+
+
+Standard Annealing #11
+Residual: 42155544
+Runtime: 13
+
+
+Pre-Partitioned Annealing #11
+Residual: 43
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 12
-Random Repeated #12
-Residual: 3753507103
+********************
+Standard Random Repeated #12
+Residual: 529621156
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #12
+Residual: 187
+Runtime: 317
+
+
+Standard Hill-Climbing #12
+Residual: 3545660
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #12
+Residual: 628
+Runtime: 205
+
+
+Standard Annealing #12
+Residual: 421485542
+Runtime: 13
+
+
+Pre-Partitioned Annealing #12
+Residual: 28
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 13
-Random Repeated #13
-Residual: 5363902168
+********************
+Standard Random Repeated #13
+Residual: 242125863
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #13
+Residual: 53
+Runtime: 311
+
+
+Standard Hill-Climbing #13
+Residual: 631918803
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #13
+Residual: 618
+Runtime: 204
+
+
+Standard Annealing #13
+Residual: 65235451
+Runtime: 13
+
+
+Pre-Partitioned Annealing #13
+Residual: 72
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 14
-Random Repeated #14
-Residual: 5339542827
+********************
+Standard Random Repeated #14
+Residual: 118215950
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #14
+Residual: 85
+Runtime: 313
+
+
+Standard Hill-Climbing #14
+Residual: 112942760
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #14
+Residual: 140
+Runtime: 216
+
+
+Standard Annealing #14
+Residual: 554967206
+Runtime: 13
+
+
+Pre-Partitioned Annealing #14
+Residual: 78
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 15
-Random Repeated #15
-Residual: 10334548124
+********************
+Standard Random Repeated #15
+Residual: 517657313
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #15
+Residual: 149
+Runtime: 313
+
+
+Standard Hill-Climbing #15
+Residual: 122589411
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #15
+Residual: 27
+Runtime: 215
+
+
+Standard Annealing #15
+Residual: 26237719
+Runtime: 14
+
+
+Pre-Partitioned Annealing #15
+Residual: 133
+Runtime: 224
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 16
-Random Repeated #16
-Residual: 34537106695
+********************
+Standard Random Repeated #16
+Residual: 598146638
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #16
+Residual: 97
+Runtime: 313
+
+
+Standard Hill-Climbing #16
+Residual: 415739004
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #16
+Residual: 405
+Runtime: 212
+
+
+Standard Annealing #16
+Residual: 52372676
+Runtime: 13
+
+
+Pre-Partitioned Annealing #16
+Residual: 697
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 17
-Random Repeated #17
-Residual: 3732875753
+********************
+Standard Random Repeated #17
+Residual: 1454563014
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #17
+Residual: 12
+Runtime: 321
+
+
+Standard Hill-Climbing #17
+Residual: 592439574
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #17
+Residual: 1060
+Runtime: 205
+
+
+Standard Annealing #17
+Residual: 157085300
+Runtime: 13
+
+
+Pre-Partitioned Annealing #17
+Residual: 27
+Runtime: 227
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 18
-Random Repeated #18
-Residual: 6810809512
+********************
+Standard Random Repeated #18
+Residual: 458684831
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #18
+Residual: 238
+Runtime: 313
+
+
+Standard Hill-Climbing #18
+Residual: 177214151
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #18
+Residual: 2893
+Runtime: 196
+
+
+Standard Annealing #18
+Residual: 282690609
+Runtime: 13
+
+
+Pre-Partitioned Annealing #18
+Residual: 51
+Runtime: 221
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 19
-Random Repeated #19
-Residual: 2175447932
+********************
+Standard Random Repeated #19
+Residual: 132018823
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #19
+Residual: 84
+Runtime: 307
+
+
+Standard Hill-Climbing #19
+Residual: 183129961
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #19
+Residual: 33
+Runtime: 207
+
+
+Standard Annealing #19
+Residual: 20637851
+Runtime: 13
+
+
+Pre-Partitioned Annealing #19
+Residual: 168
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 20
-Random Repeated #20
-Residual: 6480327310
+********************
+Standard Random Repeated #20
+Residual: 72263060
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #20
+Residual: 207
+Runtime: 310
+
+
+Standard Hill-Climbing #20
+Residual: 31836374
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #20
+Residual: 1291
+Runtime: 192
+
+
+Standard Annealing #20
+Residual: 194536346
+Runtime: 13
+
+
+Pre-Partitioned Annealing #20
+Residual: 74
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 21
-Random Repeated #21
-Residual: 5650083940
+********************
+Standard Random Repeated #21
+Residual: 765713812
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #21
+Residual: 145
+Runtime: 311
+
+
+Standard Hill-Climbing #21
+Residual: 179863488
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #21
+Residual: 887
+Runtime: 200
+
+
+Standard Annealing #21
+Residual: 416140308
+Runtime: 13
+
+
+Pre-Partitioned Annealing #21
+Residual: 98
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 22
-Random Repeated #22
-Residual: 228286461
+********************
+Standard Random Repeated #22
+Residual: 18473643
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #22
+Residual: 101
+Runtime: 311
+
+
+Standard Hill-Climbing #22
+Residual: 352338611
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #22
+Residual: 542
+Runtime: 201
+
+
+Standard Annealing #22
+Residual: 8999239
+Runtime: 13
+
+
+Pre-Partitioned Annealing #22
+Residual: 108
+Runtime: 223
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 23
-Random Repeated #23
-Residual: 2061714487
+********************
+Standard Random Repeated #23
+Residual: 894119526
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #23
+Residual: 286
+Runtime: 314
+
+
+Standard Hill-Climbing #23
+Residual: 33016076
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #23
+Residual: 702
+Runtime: 212
+
+
+Standard Annealing #23
+Residual: 257823936
+Runtime: 13
+
+
+Pre-Partitioned Annealing #23
+Residual: 507
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 24
-Random Repeated #24
-Residual: 1486710923
+********************
+Standard Random Repeated #24
+Residual: 4403143
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #24
+Residual: 252
+Runtime: 312
+
+
+Standard Hill-Climbing #24
+Residual: 1307574115
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #24
+Residual: 1378
+Runtime: 217
+
+
+Standard Annealing #24
+Residual: 383386477
+Runtime: 13
+
+
+Pre-Partitioned Annealing #24
+Residual: 87
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 25
-Random Repeated #25
-Residual: 2473762669
+********************
+Standard Random Repeated #25
+Residual: 57081874
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #25
+Residual: 255
+Runtime: 311
+
+
+Standard Hill-Climbing #25
+Residual: 175960800
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #25
+Residual: 165
+Runtime: 212
+
+
+Standard Annealing #25
+Residual: 310500642
+Runtime: 13
+
+
+Pre-Partitioned Annealing #25
+Residual: 214
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 26
-Random Repeated #26
-Residual: 3025860336
+********************
+Standard Random Repeated #26
+Residual: 7624584
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #26
+Residual: 260
+Runtime: 311
+
+
+Standard Hill-Climbing #26
+Residual: 109801468
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #26
+Residual: 562
+Runtime: 202
+
+
+Standard Annealing #26
+Residual: 153324622
+Runtime: 13
+
+
+Pre-Partitioned Annealing #26
+Residual: 13
+Runtime: 221
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 27
-Random Repeated #27
-Residual: 149371345
+********************
+Standard Random Repeated #27
+Residual: 189422261
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #27
+Residual: 87
+Runtime: 314
+
+
+Standard Hill-Climbing #27
+Residual: 40095459
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #27
+Residual: 626
+Runtime: 205
+
+
+Standard Annealing #27
+Residual: 26473279
+Runtime: 12
+
+
+Pre-Partitioned Annealing #27
+Residual: 16
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 28
-Random Repeated #28
-Residual: 30072061
+********************
+Standard Random Repeated #28
+Residual: 5928291
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #28
+Residual: 60
+Runtime: 311
+
+
+Standard Hill-Climbing #28
+Residual: 460149457
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #28
+Residual: 78
+Runtime: 212
+
+
+Standard Annealing #28
+Residual: 712458371
+Runtime: 13
+
+
+Pre-Partitioned Annealing #28
+Residual: 184
+Runtime: 230
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 29
-Random Repeated #29
-Residual: 12669848348
+********************
+Standard Random Repeated #29
+Residual: 562533313
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #29
+Residual: 99
+Runtime: 313
+
+
+Standard Hill-Climbing #29
+Residual: 322939201
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #29
+Residual: 75
+Runtime: 223
+
+
+Standard Annealing #29
+Residual: 73964309
+Runtime: 13
+
+
+Pre-Partitioned Annealing #29
+Residual: 355
+Runtime: 232
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 30
-Random Repeated #30
-Residual: 5670571240
+********************
+Standard Random Repeated #30
+Residual: 4206375
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #30
+Residual: 121
+Runtime: 310
+
+
+Standard Hill-Climbing #30
+Residual: 217376347
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #30
+Residual: 373
+Runtime: 208
+
+
+Standard Annealing #30
+Residual: 365395631
+Runtime: 12
+
+
+Pre-Partitioned Annealing #30
+Residual: 34
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 31
-Random Repeated #31
-Residual: 4781748878
+********************
+Standard Random Repeated #31
+Residual: 499376995
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #31
+Residual: 84
+Runtime: 312
+
+
+Standard Hill-Climbing #31
+Residual: 562866871
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #31
+Residual: 1908
+Runtime: 210
+
+
+Standard Annealing #31
+Residual: 470439443
+Runtime: 13
+
+
+Pre-Partitioned Annealing #31
+Residual: 56
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 32
-Random Repeated #32
-Residual: 501478833
+********************
+Standard Random Repeated #32
+Residual: 916799757
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #32
+Residual: 20
+Runtime: 309
+
+
+Standard Hill-Climbing #32
+Residual: 82213309
+Runtime: 6
+
+
+Pre-partitioned Hill-Climbing #32
+Residual: 755
+Runtime: 199
+
+
+Standard Annealing #32
+Residual: 975676073
+Runtime: 13
+
+
+Pre-Partitioned Annealing #32
+Residual: 1093
+Runtime: 243
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 33
-Random Repeated #33
-Residual: 713337292
+********************
+Standard Random Repeated #33
+Residual: 65555647
+Runtime: 37
+
+
+Pre-partitioned Random Repeated #33
+Residual: 96
+Runtime: 322
+
+
+Standard Hill-Climbing #33
+Residual: 6169499
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #33
+Residual: 122
+Runtime: 209
+
+
+Standard Annealing #33
+Residual: 85495547
+Runtime: 13
+
+
+Pre-Partitioned Annealing #33
+Residual: 178
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 34
-Random Repeated #34
-Residual: 1358968874
+********************
+Standard Random Repeated #34
+Residual: 175015865
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #34
+Residual: 7
+Runtime: 310
+
+
+Standard Hill-Climbing #34
+Residual: 802186495
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #34
+Residual: 80
+Runtime: 193
+
+
+Standard Annealing #34
+Residual: 14121935
+Runtime: 13
+
+
+Pre-Partitioned Annealing #34
+Residual: 839
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 35
-Random Repeated #35
-Residual: 751352747
+********************
+Standard Random Repeated #35
+Residual: 108325584
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #35
+Residual: 268
+Runtime: 311
+
+
+Standard Hill-Climbing #35
+Residual: 351513252
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #35
+Residual: 326
+Runtime: 213
+
+
+Standard Annealing #35
+Residual: 986458316
+Runtime: 13
+
+
+Pre-Partitioned Annealing #35
+Residual: 277
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 36
-Random Repeated #36
-Residual: 4348041422
+********************
+Standard Random Repeated #36
+Residual: 147741090
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #36
+Residual: 161
+Runtime: 319
+
+
+Standard Hill-Climbing #36
+Residual: 169747260
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #36
+Residual: 447
+Runtime: 227
+
+
+Standard Annealing #36
+Residual: 54347624
+Runtime: 13
+
+
+Pre-Partitioned Annealing #36
+Residual: 152
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 37
-Random Repeated #37
-Residual: 4173818699
+********************
+Standard Random Repeated #37
+Residual: 7886294
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #37
+Residual: 204
+Runtime: 310
+
+
+Standard Hill-Climbing #37
+Residual: 25583384
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #37
+Residual: 543
+Runtime: 206
+
+
+Standard Annealing #37
+Residual: 618149322
+Runtime: 13
+
+
+Pre-Partitioned Annealing #37
+Residual: 656
+Runtime: 220
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 38
-Random Repeated #38
-Residual: 9968914732
+********************
+Standard Random Repeated #38
+Residual: 52696766
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #38
+Residual: 137
+Runtime: 313
+
+
+Standard Hill-Climbing #38
+Residual: 171042378
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #38
+Residual: 512
+Runtime: 203
+
+
+Standard Annealing #38
+Residual: 17527914
+Runtime: 13
+
+
+Pre-Partitioned Annealing #38
+Residual: 126
+Runtime: 221
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 39
-Random Repeated #39
-Residual: 5469024411
+********************
+Standard Random Repeated #39
+Residual: 287980012
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #39
+Residual: 11
+Runtime: 310
+
+
+Standard Hill-Climbing #39
+Residual: 216144354
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #39
+Residual: 1834
+Runtime: 202
+
+
+Standard Annealing #39
+Residual: 666858984
+Runtime: 13
+
+
+Pre-Partitioned Annealing #39
+Residual: 287
+Runtime: 221
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 40
-Random Repeated #40
-Residual: 7164716898
+********************
+Standard Random Repeated #40
+Residual: 434989403
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #40
+Residual: 157
+Runtime: 310
+
+
+Standard Hill-Climbing #40
+Residual: 420559585
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #40
+Residual: 599
+Runtime: 210
+
+
+Standard Annealing #40
+Residual: 16769075
+Runtime: 13
+
+
+Pre-Partitioned Annealing #40
+Residual: 11
+Runtime: 224
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 41
-Random Repeated #41
-Residual: 7448298157
+********************
+Standard Random Repeated #41
+Residual: 308818041
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #41
+Residual: 97
+Runtime: 311
+
+
+Standard Hill-Climbing #41
+Residual: 108750959
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #41
+Residual: 585
+Runtime: 202
+
+
+Standard Annealing #41
+Residual: 208648933
+Runtime: 13
+
+
+Pre-Partitioned Annealing #41
+Residual: 41
+Runtime: 226
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 42
-Random Repeated #42
-Residual: 3240331450
+********************
+Standard Random Repeated #42
+Residual: 227946806
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #42
+Residual: 142
+Runtime: 310
+
+
+Standard Hill-Climbing #42
+Residual: 158222824
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #42
+Residual: 18
+Runtime: 206
+
+
+Standard Annealing #42
+Residual: 269991030
+Runtime: 13
+
+
+Pre-Partitioned Annealing #42
+Residual: 24
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 43
-Random Repeated #43
-Residual: 5541459642
+********************
+Standard Random Repeated #43
+Residual: 549605685
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #43
+Residual: 342
+Runtime: 312
+
+
+Standard Hill-Climbing #43
+Residual: 74733149
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #43
+Residual: 16
+Runtime: 201
+
+
+Standard Annealing #43
+Residual: 608926653
+Runtime: 13
+
+
+Pre-Partitioned Annealing #43
+Residual: 375
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 44
-Random Repeated #44
-Residual: 167910841
+********************
+Standard Random Repeated #44
+Residual: 27032459
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #44
+Residual: 107
+Runtime: 311
+
+
+Standard Hill-Climbing #44
+Residual: 171775201
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #44
+Residual: 737
+Runtime: 207
+
+
+Standard Annealing #44
+Residual: 105036973
+Runtime: 13
+
+
+Pre-Partitioned Annealing #44
+Residual: 272
+Runtime: 221
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 45
-Random Repeated #45
-Residual: 3617413981
+********************
+Standard Random Repeated #45
+Residual: 5177577
+Runtime: 35
+
+
+Pre-partitioned Random Repeated #45
+Residual: 57
+Runtime: 308
+
+
+Standard Hill-Climbing #45
+Residual: 420040467
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #45
+Residual: 1156
+Runtime: 212
+
+
+Standard Annealing #45
+Residual: 131856273
+Runtime: 13
+
+
+Pre-Partitioned Annealing #45
+Residual: 48
+Runtime: 227
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 46
-Random Repeated #46
-Residual: 5014289698
+********************
+Standard Random Repeated #46
+Residual: 183997605
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #46
+Residual: 138
+Runtime: 314
+
+
+Standard Hill-Climbing #46
+Residual: 16479645
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #46
+Residual: 576
+Runtime: 218
+
+
+Standard Annealing #46
+Residual: 360113231
+Runtime: 13
+
+
+Pre-Partitioned Annealing #46
+Residual: 97
+Runtime: 222
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 47
-Random Repeated #47
-Residual: 1257592617
+********************
+Standard Random Repeated #47
+Residual: 103408446
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #47
+Residual: 224
+Runtime: 312
+
+
+Standard Hill-Climbing #47
+Residual: 264225438
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #47
+Residual: 370
+Runtime: 210
+
+
+Standard Annealing #47
+Residual: 155940080
+Runtime: 13
+
+
+Pre-Partitioned Annealing #47
+Residual: 10
+Runtime: 223
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 48
-Random Repeated #48
-Residual: 4024856293
+********************
+Standard Random Repeated #48
+Residual: 442758410
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #48
+Residual: 112
+Runtime: 318
+
+
+Standard Hill-Climbing #48
+Residual: 923833866
+Runtime: 4
+
+
+Pre-partitioned Hill-Climbing #48
+Residual: 375
+Runtime: 211
+
+
+Standard Annealing #48
+Residual: 88993628
+Runtime: 13
+
+
+Pre-Partitioned Annealing #48
+Residual: 297
+Runtime: 225
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 
 Instance: 49
-Random Repeated #49
-Residual: 4723710548
+********************
+Standard Random Repeated #49
+Residual: 76534292
+Runtime: 36
+
+
+Pre-partitioned Random Repeated #49
+Residual: 115
+Runtime: 312
+
+
+Standard Hill-Climbing #49
+Residual: 43970370
+Runtime: 5
+
+
+Pre-partitioned Hill-Climbing #49
+Residual: 159
+Runtime: 198
+
+
+Standard Annealing #49
+Residual: 232573342
+Runtime: 13
+
+
+Pre-Partitioned Annealing #49
+Residual: 520
+Runtime: 224
+
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
 
 

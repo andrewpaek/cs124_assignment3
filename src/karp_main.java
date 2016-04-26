@@ -7,6 +7,6 @@ public class karp_main{
         long[] testing = {17, 13, 10, 4, 2, 1};
         karp k = new karp();
         long m = k.residue(testing);
-        System.out.println("Residue: "+m);
+        //System.out.println("Residue: "+m);
     }
 }

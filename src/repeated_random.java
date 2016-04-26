@@ -21,15 +21,15 @@ public class repeated_random {
         int array_length = input_array.length;
         long val_best = r.residue(best_array);
         long val_new;
-        System.out.println("Testing Repeated Random...");
+        //System.out.println("Testing Repeated Random...");
         for (int i = 0; i < max_Iter; i++) {
-            System.out.println("Iteration: " + i);
+            //System.out.println("Iteration: " + i);
             new_array = r.generate(array_length);
             val_new = r.residue(new_array);
-            r.print(best_array);
-            System.out.println(val_best);
-            r.print(new_array);
-            System.out.println(val_new);
+            //r.print(best_array);
+            //System.out.println(val_best);
+            //r.print(new_array);
+            //System.out.println(val_new);
             if (val_new < val_best) {
                 best_array = new_array;
                 val_best = val_new;
@@ -37,7 +37,7 @@ public class repeated_random {
 
         }
 
-        System.out.println("Best Residue: " + val_best);
+        //System.out.println("Best Residue: " + val_best);
         return val_best;
 
     }

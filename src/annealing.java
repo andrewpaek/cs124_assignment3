@@ -24,13 +24,13 @@ public class annealing {
         for (int i=0; i<max_Iter; i++){
             S_temp = r.random_step(S);
             S_temp_res = r.residue(S_temp);
-            r.print(S);
-            System.out.println(S_res);
-            r.print(S_best);
-            System.out.println(S_best_res);
-            r.print(S_temp);
-            System.out.println(S_temp_res);
-            System.out.println("BREAK");
+            //r.print(S);
+            //System.out.println(S_res);
+            //r.print(S_best);
+            //System.out.println(S_best_res);
+            //r.print(S_temp);
+            //System.out.println(S_temp_res);
+            //System.out.println("BREAK");
             if (S_temp_res < S_res){
                 S=S_temp;
                 S_res = S_temp_res;
@@ -48,7 +48,7 @@ public class annealing {
                 S_best_res = S_res;
             }
         }
-        System.out.println(S_best_res);
+        //System.out.println(S_best_res);
         return S_best_res;
 
     }
