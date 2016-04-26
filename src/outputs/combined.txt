@@ -1,0 +1,535 @@
+Instance: 0
+********************
+Karmarkar-Karp #0
+368134 1
+
+Standard Random Repeated #0
+ 683413662 50
+
+Pre-partitioned Random Repeated #0
+ 7 383
+
+Standard Hill-Climbing #0
+ 515665728 13
+
+Pre-partitioned Hill-Climbing #0
+ 290 266
+
+Standard Annealing #0
+ 362565602 18
+
+Pre-Partitioned Annealing #0
+ 200 254
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 1
+********************
+Karmarkar-Karp #1
+6744 0
+
+Standard Random Repeated #1
+ 313851028 37
+
+Pre-partitioned Random Repeated #1
+ 76 322
+
+Standard Hill-Climbing #1
+ 238836254 5
+
+Pre-partitioned Hill-Climbing #1
+ 939 215
+
+Standard Annealing #1
+ 246410178 18
+
+Pre-Partitioned Annealing #1
+ 107 239
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 2
+********************
+Karmarkar-Karp #2
+238254 0
+
+Standard Random Repeated #2
+ 218406054 36
+
+Pre-partitioned Random Repeated #2
+ 3 318
+
+Standard Hill-Climbing #2
+ 341667426 5
+
+Pre-partitioned Hill-Climbing #2
+ 44 250
+
+Standard Annealing #2
+ 15466342 18
+
+Pre-Partitioned Annealing #2
+ 33 239
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 3
+********************
+Karmarkar-Karp #3
+13448 0
+
+Standard Random Repeated #3
+ 59228249 34
+
+Pre-partitioned Random Repeated #3
+ 119 308
+
+Standard Hill-Climbing #3
+ 534254345 5
+
+Pre-partitioned Hill-Climbing #3
+ 502 203
+
+Standard Annealing #3
+ 808010901 13
+
+Pre-Partitioned Annealing #3
+ 9 233
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 4
+********************
+Karmarkar-Karp #4
+43640 0
+
+Standard Random Repeated #4
+ 181877133 36
+
+Pre-partitioned Random Repeated #4
+ 230 317
+
+Standard Hill-Climbing #4
+ 99733475 4
+
+Pre-partitioned Hill-Climbing #4
+ 347 212
+
+Standard Annealing #4
+ 347180943 14
+
+Pre-Partitioned Annealing #4
+ 72 233
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 5
+********************
+Karmarkar-Karp #5
+494005 0
+
+Standard Random Repeated #5
+ 115955752 36
+
+Pre-partitioned Random Repeated #5
+ 11 319
+
+Standard Hill-Climbing #5
+ 1869410958 4
+
+Pre-partitioned Hill-Climbing #5
+ 596 212
+
+Standard Annealing #5
+ 5074172 15
+
+Pre-Partitioned Annealing #5
+ 6 229
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 6
+********************
+Karmarkar-Karp #6
+138556 0
+
+Standard Random Repeated #6
+ 3251733 36
+
+Pre-partitioned Random Repeated #6
+ 141 325
+
+Standard Hill-Climbing #6
+ 173127853 5
+
+Pre-partitioned Hill-Climbing #6
+ 721 204
+
+Standard Annealing #6
+ 816908275 15
+
+Pre-Partitioned Annealing #6
+ 201 230
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 7
+********************
+Karmarkar-Karp #7
+85674 0
+
+Standard Random Repeated #7
+ 52159154 36
+
+Pre-partitioned Random Repeated #7
+ 112 318
+
+Standard Hill-Climbing #7
+ 960622090 5
+
+Pre-partitioned Hill-Climbing #7
+ 60 211
+
+Standard Annealing #7
+ 204180168 13
+
+Pre-Partitioned Annealing #7
+ 192 238
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 8
+********************
+Karmarkar-Karp #8
+297338 0
+
+Standard Random Repeated #8
+ 813400940 37
+
+Pre-partitioned Random Repeated #8
+ 50 322
+
+Standard Hill-Climbing #8
+ 198768904 5
+
+Pre-partitioned Hill-Climbing #8
+ 768 220
+
+Standard Annealing #8
+ 184914222 13
+
+Pre-Partitioned Annealing #8
+ 308 247
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 9
+********************
+Karmarkar-Karp #9
+25927 0
+
+Standard Random Repeated #9
+ 504133519 35
+
+Pre-partitioned Random Repeated #9
+ 7 329
+
+Standard Hill-Climbing #9
+ 4284619 5
+
+Pre-partitioned Hill-Climbing #9
+ 12 217
+
+Standard Annealing #9
+ 102271345 13
+
+Pre-Partitioned Annealing #9
+ 27 239
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 10
+********************
+Karmarkar-Karp #10
+61511 0
+
+Standard Random Repeated #10
+ 365160412 36
+
+Pre-partitioned Random Repeated #10
+ 173 316
+
+Standard Hill-Climbing #10
+ 3334242436 4
+
+Pre-partitioned Hill-Climbing #10
+ 119 225
+
+Standard Annealing #10
+ 111181884 13
+
+Pre-Partitioned Annealing #10
+ 82 237
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 11
+********************
+Karmarkar-Karp #11
+372188 0
+
+Standard Random Repeated #11
+ 71793004 36
+
+Pre-partitioned Random Repeated #11
+ 270 321
+
+Standard Hill-Climbing #11
+ 539778210 5
+
+Pre-partitioned Hill-Climbing #11
+ 1775 210
+
+Standard Annealing #11
+ 190664172 13
+
+Pre-Partitioned Annealing #11
+ 418 233
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 12
+********************
+Karmarkar-Karp #12
+55876 0
+
+Standard Random Repeated #12
+ 17702591 36
+
+Pre-partitioned Random Repeated #12
+ 351 317
+
+Standard Hill-Climbing #12
+ 139657081 5
+
+Pre-partitioned Hill-Climbing #12
+ 166 213
+
+Standard Annealing #12
+ 684476563 13
+
+Pre-Partitioned Annealing #12
+ 23 226
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 13
+********************
+Karmarkar-Karp #13
+20535 0
+
+Standard Random Repeated #13
+ 151138957 36
+
+Pre-partitioned Random Repeated #13
+ 39 317
+
+Standard Hill-Climbing #13
+ 32861535 4
+
+Pre-partitioned Hill-Climbing #13
+ 832 216
+
+Standard Annealing #13
+ 103702493 13
+
+Pre-Partitioned Annealing #13
+ 81 233
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 14
+********************
+Karmarkar-Karp #14
+768740 0
+
+Standard Random Repeated #14
+ 410723670 36
+
+Pre-partitioned Random Repeated #14
+ 67 317
+
+Standard Hill-Climbing #14
+ 341198984 5
+
+Pre-partitioned Hill-Climbing #14
+ 359 230
+
+Standard Annealing #14
+ 329248236 13
+
+Pre-Partitioned Annealing #14
+ 115 249
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 15
+********************
+Karmarkar-Karp #15
+91748 0
+
+Standard Random Repeated #15
+ 347213862 39
+
+Pre-partitioned Random Repeated #15
+ 326 317
+
+Standard Hill-Climbing #15
+ 344909556 5
+
+Pre-partitioned Hill-Climbing #15
+ 640 221
+
+Standard Annealing #15
+ 103308356 13
+
+Pre-Partitioned Annealing #15
+ 84 231
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 16
+********************
+Karmarkar-Karp #16
+93707 0
+
+Standard Random Repeated #16
+ 245860020 36
+
+Pre-partitioned Random Repeated #16
+ 46 320
+
+Standard Hill-Climbing #16
+ 249945620 5
+
+Pre-partitioned Hill-Climbing #16
+ 39 228
+
+Standard Annealing #16
+ 257752192 13
+
+Pre-Partitioned Annealing #16
+ 13 232
+
+======================================== 
+======================================== 
+======================================== 
+
+
+
+
+Instance: 17
+********************
+Karmarkar-Karp #17
+3080335 0
+
+Standard Random Repeated #17
+ 87296860 36
+
+Pre-partitioned Random Repeated #17
+ 393 318
+
+Standard Hill-Climbing #17
+ 398759756 5
+
+Pre-partitioned Hill-Climbing #17
+ 188 222
+
+Standard Annealing #17
+ 204378904 13
+
+Pre-Partitioned Annealing #17
+ 76 244
+
+======================================== 
+=======

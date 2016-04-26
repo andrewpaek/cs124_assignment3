@@ -6,18 +6,18 @@ JC = javac
 
 CLASSES = \
 		annealing.java \
-		Hill_Climbing.java \
+		hill_climbing.java \
 		input_generator.java \
 		karp.java \
-		jarp_main.java \
-		Main.java \
+		main.java \
 		maxheap.java \
 		package-info.java \
 		random.java \
-		Rep_1.java \
-		Rep_2.java \
-		Repeated_Random \
-		representation
+		rep_1.java \
+		rep_2.java \
+		repeated_random.java \
+		representation.java \
+		kk.java
 
 default: classes
 
